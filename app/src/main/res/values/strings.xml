@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">greetings</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="create">Create</string>
+    <string name="textview">textview</string>
+    <string name="todo">TODO</string>
+
+</resources>
